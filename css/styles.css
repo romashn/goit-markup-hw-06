@@ -819,8 +819,8 @@ img {
   position: absolute;
   top: 50%;
   left: 16px;
-  width: 18px;
-  height: 24px;
+  width: 13px;
+  height: 13px;
   transform: translateY(-50%);
   transition: fill 250ms var(--t-cubic-bezier);
 }
